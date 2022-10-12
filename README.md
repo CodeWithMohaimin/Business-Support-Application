@@ -1,2 +1,1 @@
-<h1>Mohaimin Islam</h1>
-<p>Mastering Tailwind CSS and React js </p>
+<h1>Welcome my github- This project is created by React-js and Tailwind-CSS</h1>
